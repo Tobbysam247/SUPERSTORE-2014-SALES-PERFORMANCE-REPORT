@@ -62,3 +62,9 @@ Key metrics reflecting overall business performance:
 - Focus marketing efforts on high-profit, mid-selling items to boost overall margins.
 - Expand operations in the **West** and **East** regions while developing strategies to improve sales in **South** and **Central** regions.
 - Prioritize inventory planning around fast-moving sub-categories like **Phones**, **Chairs**, and **Machines**.
+
+---
+
+## 📷 Dashboard Preview
+
+![Dashboard Screenshot](https://github.com/Tobbysam247/SUPERSTORE-2014-SALES-PERFORMANCE-REPORT/blob/main/SUPERSTORE%202014%20SALES%20PERFORMANCE%20REPORT.png?raw=true)
