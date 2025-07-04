@@ -1,4 +1,4 @@
-# SUPERSTORE 2014 SALES PERFORMANCE REPORT
+# Superstore 2014 Sales Performance Report
 
 This report, developed using Power BI, presents a comprehensive analysis of Superstore’s 2014 sales performance. It explored product sales, profitability, regional distribution, and seasonal trends to derive actionable business insights.
 
