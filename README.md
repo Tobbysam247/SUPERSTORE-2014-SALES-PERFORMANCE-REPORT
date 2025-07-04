@@ -1,6 +1,6 @@
 # SUPERSTORE 2014 SALES PERFORMANCE REPORT
 
-This report, developed using **Power BI**, presents a comprehensive analysis of **Superstore’s 2014 sales performance**. It explores product sales, profitability, regional distribution, and seasonal trends to derive actionable business insights.
+This report, developed using Power BI, presents a comprehensive analysis of Superstore’s 2014 sales performance. It explored product sales, profitability, regional distribution, and seasonal trends to derive actionable business insights.
 
 ---
 ## Overview
@@ -32,8 +32,8 @@ Key metrics reflecting overall business performance:
 ##  Regional Sales Distribution
 
 ###  Sales by Region *(Treemap Chart)*
-- **West** and **East** regions dominate sales figures.
-- **South** and **Central** contribute less overall.
+- West and East regions dominate sales figures.
+- South and Central contribute less overall.
 
 ###  Sales by Sub-Category *(Pie Chart)*
 - **Phones** – 24.7%  
@@ -54,8 +54,8 @@ Key metrics reflecting overall business performance:
 ##  Recommendations
 - Reevaluate the pricing and cost structure of top-selling but low-profit products.
 - Focus marketing efforts on high-profit, mid-selling items to boost overall margins.
-- Expand operations in the **West** and **East** regions while developing strategies to improve sales in **South** and **Central** regions.
-- Prioritize inventory planning around fast-moving sub-categories like **Phones**, **Chairs**, and **Machines**.
+- Expand operations in the West and East regions while developing strategies to improve sales in South and Central regions.
+- Prioritize inventory planning around fast-moving sub-categories like Phones, Chairs, and Machines.
 
 ---
  **Live Dashboard**  
@@ -64,11 +64,12 @@ Key metrics reflecting overall business performance:
  ---
 ##  Dashboard Preview
 
-![Dashboard Screenshot](https://github.com/Tobbysam247/SUPERSTORE-2014-SALES-PERFORMANCE-REPORT/blob/main/SUPERSTORE%202014%20SALES%20PERFORMANCE%20REPORT.png?raw=true)
+![SUPERSTORE 2014 SALES PERFORMANCE REPORT](https://github.com/user-attachments/assets/f302a8d4-335e-409a-98b3-84f06750ddd0)
+
 
 
 ----
-🙋‍♂️ Author
+    Author
 -  **Oluwatobi Akinwumi**
 -  Auditor & Data Analyst
 - 📍 Abuja, Nigeria
