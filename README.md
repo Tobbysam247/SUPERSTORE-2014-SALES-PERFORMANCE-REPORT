@@ -64,7 +64,10 @@ Key metrics reflecting overall business performance:
  ---
 ##  Dashboard Preview
 
-![SUPERSTORE 2014 SALES PERFORMANCE REPORT](https://github.com/user-attachments/assets/f302a8d4-335e-409a-98b3-84f06750ddd0)
+<img width="1410" height="782" alt="SUPERSTORE 2014 SALES PERFORMANCE REPORT" src="https://github.com/user-attachments/assets/1a6b9509-5b6d-47e0-b0b6-c7a79e65ae7b" />
+
+
+
 
 
 
